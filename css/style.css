@@ -839,3 +839,21 @@ textarea {
     top: 27px;
   }
 }
+.kDQnrw {
+  font-family: Catamaran, sans-serif;
+  font-size: 2.7rem;
+  color: rgb(26, 32, 44);
+  transition: color 0.25s ease-in-out;
+  will-change: opacity;
+}
+.kDQnrw span {
+  color: rgb(31, 85, 209);
+  transition: color 0.25s ease-in-out;
+  will-change: opacity;
+}
+.kDQnrw:hover {
+  color: rgb(37, 86, 200);
+}
+.kDQnrw:hover span {
+  color: rgb(26, 32, 44);
+}
