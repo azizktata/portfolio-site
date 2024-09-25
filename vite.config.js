@@ -10,6 +10,7 @@ export default defineConfig({
                 project2: resolve(__dirname, 'project-2.html'),
                 project3: resolve(__dirname, 'project-3.html'),
                 project4: resolve(__dirname, 'project-4.html'),
+                assets: resolve(__dirname, 'assets'),
 
             }
         }
