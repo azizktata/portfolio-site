@@ -250,7 +250,12 @@ textarea {
 /* qwe */
 .home-hero {
   color: #fff;
-  background: url("../../assets/img/portfolio_bg.png");
+  background: linear-gradient(
+      to right,
+      rgba(var(--main-color), 0.8),
+      rgba(var(--main-color), 0.8)
+    ),
+    url("../../assets/svg/common-bg.svg");
   background-position: center;
   height: 100vh;
   min-height: 80rem;
