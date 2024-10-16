@@ -11,6 +11,7 @@ export default defineConfig({
                 project3: resolve(__dirname, 'project-3.html'),
                 project4: resolve(__dirname, 'project-4.html'),
                 project5: resolve(__dirname, 'project-5.html'),
+                project6: resolve(__dirname, 'project-6.html'),
                 index: resolve(__dirname, 'index.js'),
 
 
